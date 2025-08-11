@@ -1,5 +1,5 @@
 # TowerDefense-in-CPP
-Using SFML in C++ to develop a tower defense game
+Using SFML in C++ to develop a tower defense game, so make sure to have SFML 2.6 installed
 
 Applied Software Patterns such as observer pattern and creator pattern.
 
